@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851363800360",
+    "project_id": "fir-1-9533c",
+    "storage_bucket": "fir-1-9533c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851363800360:android:f15070adf8aa34c525dc1d",
+        "android_client_info": {
+          "package_name": "com.example.gaftest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCud3ZqlZK4TqyB3mbC7dQuSgpWBIiK0g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
