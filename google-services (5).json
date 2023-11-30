@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697324457707",
+    "project_id": "imem-fab8d",
+    "storage_bucket": "imem-fab8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697324457707:android:261aedf3b6b39ff38a78ae",
+        "android_client_info": {
+          "package_name": "com.example.gafset"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3kWpbnECulLxsiaEx8DIBa7ExdkNbclA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
